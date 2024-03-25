@@ -1,0 +1,14 @@
+[
+    {
+        "relations":[
+            "delegrate_permission/common.handle_all_urls"
+        ],
+        "targets":{
+            "namespace":"android_app",
+            "package_name": "com.srikanth.mlq",
+            "sha256_cert_fingerprints":[
+                "2E:A3:52:9F:A9:59:8E:33:AF:47:1D:2D:B8:84:BF:32:A3:02:17:91:19:45:90:AF:3B:34:58:EC:0C:20:DC:A6"
+            ]
+        }
+    }
+]
